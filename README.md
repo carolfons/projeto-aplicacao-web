@@ -1,5 +1,9 @@
 <h1 align = "center"> Aplicação Web :computer: </h1>
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/carolfons/AC318"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/carolfons/AC318"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/carolfons/AC318"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carolfons/AC318">
+
+![GitHub top language](https://img.shields.io/github/languages/top/carolfons/AC318)
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/carolfons/AC318"> 
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/carolfons/AC318">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carolfons/AC318">
 
 
 <h2> Descrição do Projeto </h2>
