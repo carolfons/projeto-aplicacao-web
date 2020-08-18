@@ -7,7 +7,7 @@
 
 
 <h2> Descrição do Projeto </h2>
-<p> Projeto desenvolvido para o AC318 </P>
+<p> Projeto desenvolvido para o AC318 utilizando Spring MVC, JPA e JAVA</P>
 
 <h2> Tecnologias :hotsprings: </h2>
   <ul>
