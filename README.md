@@ -11,8 +11,14 @@
 
 <h2> Tecnologias :hotsprings: </h2>
   <ul>
-    <li> Linguagem: JAVA
+  <li> Linguagem: JAVA</li>
   <li> IDE: Eclipse </li>
+  <li> Back-End: JAVA </li>
+  <li> Front-End: JSF </li>
+  <li> Servidor Web: tomcat </li>
+  <li> Controle e injeção de dependências: Spring MVC </li>
+  <li> Banco de Dados Relacional: MySQL </li>
+  <li> Compilação: Maven </li>
   </ul>
   
  <h2> Status do Projeto </h2>
