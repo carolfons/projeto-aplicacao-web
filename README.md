@@ -7,7 +7,7 @@
 
 
 <h2> Descrição do Projeto </h2>
-<p> Projeto desenvolvido para o AC318 utilizando Spring MVC, JPA e JAVA. Consiste em uma aplicação Web, com um banco de dados relacional. O objetivo é facilitar vendas de passagens de ônibus, onde o cliente cadastra seus dados, e o método de pagamento e escolhe a empresa, rota e horário. E futuramente um agenciador executará a venda, enviando um QR Code para o passageiro, e ele só precisará apresentá-lo ao motorista do ônibus, sem a necessidade de ir à um guichê</P>
+<p> Projeto desenvolvido para o AC318 utilizando Spring MVC, JPA e JAVA. Consiste em uma aplicação Web, com um banco de dados relacional. O objetivo é facilitar vendas de passagens de ônibus, onde o cliente cadastra seus dados, o método de pagamento e escolhe a empresa, rota e horário. E futuramente um agenciador executará a venda, enviando um QR Code para o passageiro, e ele só precisará apresentá-lo ao motorista do ônibus, sem a necessidade de ir à um guichê</p>
 
 <h2> Tecnologias :hotsprings: </h2>
   <ul>
