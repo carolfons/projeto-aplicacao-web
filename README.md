@@ -14,9 +14,9 @@
   <li> Linguagem: JAVA</li>
   <li> IDE: Eclipse </li>
   <li> Back-End: JAVA </li>
-  <li> Front-End: JSF </li>
+  <li> Front-End: Spring MVC </li>
   <li> Servidor Web: tomcat </li>
-  <li> Controle e injeção de dependências: Spring MVC </li>
+  <li> Controle e injeção de dependências: Spring Boot </li>
   <li> Banco de Dados Relacional: MySQL </li>
   <li> Compilação: Maven </li>
   </ul>
