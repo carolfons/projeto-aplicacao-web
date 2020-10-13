@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html">
+
+<h:body>
+	<h1>Cadastro do Cliente(Hello World)</h1>
+	<h:form>
+		<fieldset>
+			<legend>Dados</legend>
+			<h:panelGrid columns="2">
+				<h:outputText value="Nome: " for="nome" />
+				<h:inputText id="nome" value="#{clienteBean.nome}" />
+				<h:outputText value="CPF " for="cpf" />
+				<h:inputText id="cpf" value="#{clienteBean.CPF}" />
+				<h:outputText value="Data de Nascimento: " for="data" />
+				<h:inputText id="data" value="#{clienteBean.dataNascimento}" />
+				<h:outputText value="Endereço Completo: " for="endereco" />
+				<h:inputText id="endereco" value="#{clienteBean.endereco}" />
+
+				<h:commandButton value="Gravar" action="#{clienteBean.gravar}" />
+			</h:panelGrid>
+		</fieldset>
+	</h:form>
+
+
+</h:body>
+
+</html>
