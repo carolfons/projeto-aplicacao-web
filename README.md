@@ -1,4 +1,5 @@
-<h1 align = "center"> Aplicação Web :computer: </h1>
+<h1 align = "center">Fast Guichê :bus: </h1>
+<h2 align = "center"> Projeto Aplicação Web </h2>
 
 ![GitHub top language](https://img.shields.io/github/languages/top/carolfons/AC318)
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/carolfons/AC318"> 
