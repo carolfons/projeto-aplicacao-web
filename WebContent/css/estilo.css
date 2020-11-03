@@ -1,0 +1,67 @@
+form {
+	
+	background-color: #8bb7b7;
+	border: 1px solid white;
+}
+
+body {
+	
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: repeat;
+	object-fit: none;
+	background-image: url("fastimg.jpeg"); 
+
+}
+
+
+* {
+	/*Define  que todos os elementos da página, ficarão em negrito e com a fonte arial */
+	font-weight: bold;
+	font-family: arial;
+	/*Define a tamanho da fonte para todos os elementos */
+	font-size: 18px;
+	color: white;
+}
+
+.rotulos {
+	/*Especifica preta a cor da fonte do elemento */
+	color: white;
+	
+}
+
+.botoes {
+	/*Especifica a cor chocolate, como pano de fundo do elemento */
+	background-color: #D2691E;
+	/*Especifica como preta a cor da fonte do elemento */
+	color: #FFFFFF;
+	/*Define a borda do elemento, com um efeito de alto-relevo menor que o padrão */
+	border: 1px white;
+}
+
+.botoes :hover{
+	color: #f1b082;
+}
+
+.edit {
+	/*Define a borda do elemento, com um efeito de baixo-relevo menor que o padrão */
+	border:1px solid white;
+	/*Especifica a cor cinza, como pano de fundo do elemento */
+	background-color: #D3D3D3;
+	/*Especifica como preta a  cor da fonte do elemento */
+	color: #000000;
+}
+
+table,
+tr,
+td,
+th {
+
+  padding: 5px;
+  border: 1px solid #808080;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  margin-left:30px;
+  margin-right:30px;
+  color: #00415d;
+}
