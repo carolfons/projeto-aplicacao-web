@@ -1,14 +1,16 @@
 <h1 align = "center">Fast Guichê :bus: </h1>
 <h2 align = "center"> Projeto Aplicação Web </h2>
 
-![GitHub top language](https://img.shields.io/github/languages/top/carolfons/AC318)
+<p align ="center"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/carolfons/projeto-aplicacao-web">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/carolfons/AC318"> 
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/carolfons/AC318">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carolfons/AC318">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carolfons/AC318"></p>
 
 
 <h2> Descrição do Projeto </h2>
 <p> Projeto desenvolvido para o AC318 utilizando Spring MVC, JPA e JAVA. Consiste em uma aplicação Web, com um banco de dados relacional. O objetivo é facilitar vendas de passagens de ônibus, onde o cliente cadastra seus dados, o método de pagamento e escolhe a empresa, rota e horário. E futuramente um agenciador executará a venda, enviando um QR Code para o passageiro, e ele só precisará apresentá-lo ao motorista do ônibus, sem a necessidade de ir à um guichê</p>
+
+<p align="center"><img  alt="fastguiche logo" width="300" src="https://github.com/carolfons/projeto-aplicacao-web/blob/master/WebContent/css/bus.jpg"></p>
 
 <h2> :hammer: Tecnologias </h2>
   <ul>
